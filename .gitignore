@@ -1,0 +1,11 @@
+.venv
+venv
+
+asistente
+.asistente
+\asistente
+\asistente\
+
+asistente 
+
+asistente\special_tokens_map.json
